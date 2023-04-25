@@ -1,0 +1,37 @@
+p {
+	font-family: Times New Roman;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+.srdce:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.tom {
+	color: green;
+}
+
+.tom:hover {
+	opacity: 0.7;
+	cursor: pointer;
+}
+
+.titul {
+	color: red;
+}
+
+.donate1 {
+	color: green;
+	font-size: 50px;
+}
+
+.odkaz-tomas {
+	color: pink;
+	transition: font-size 1s;
+}
+
+.odkaz-tomas:hover {
+	font-size: 80px;
+}
